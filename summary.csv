@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Request Root /,24215,104,1,781,39.08,0.178%,98.44656,19.36,11.13,201.4
+Request Health /health,24144,103,2,756,35.10,0.236%,98.20622,15.63,11.67,162.9
+TOTAL,48359,104,1,781,37.15,0.207%,196.60448,34.98,22.80,182.2
